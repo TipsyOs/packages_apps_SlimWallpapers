@@ -13,15 +13,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="partner_wallpapers" translatable="false">
-        <item>TipsyN_Beer</item>
-        <item>TipsyN_Beer_Garden</item>
-        <item>TipsyN_Disco</item>
-        <item>TipsyN_Hangover</item>
-        <item>TipsyN_Lights_Out</item>
-        <item>TipsyN_On_Ice</item>
-        <item>TipsyN_Pub_Bathroom_Tile</item>
-        <item>TipsyN_Pub_Carpet</item>
-        <item>TipsyN_Pub_Seat</item>
-        <item>TipsyN_Pub_Wall</item>
+        <item>tipsy_beer</item>
+        <item>tipsy_beer_garden</item>
+        <item>tipsy_disco</item>
+        <item>tipsy_hangover</item>
+        <item>tipsy_lights_out</item>
+        <item>tipsy_on_ice</item>
+        <item>tipsy_pub_bathroom_tile</item>
+        <item>tipsy_pub_carpet</item>
+        <item>tipsy_pub_seat</item>
+        <item>tipsy_pub_wall</item>
     </string-array>
 </resources>
