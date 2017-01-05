@@ -20,4 +20,7 @@ include $(CLEAR_VARS)
 LOCAL_SRC_FILES := $(call all-subdir-java-files)
 LOCAL_MODULE_TAGS := optional
 LOCAL_PACKAGE_NAME := SlimWallpapers
+
+LOCAL_PROGUARD_FLAG_FILES := proguard.flags
+
 include $(BUILD_PACKAGE)

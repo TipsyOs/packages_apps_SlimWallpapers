@@ -5,7 +5,8 @@
     <application android:label="@string/app_name">
         <receiver android:name=".PartnerWallpapers">
             <intent-filter>
-                <action android:name="com.android.launcher3.action.PARTNER_CUSTOMIZATION"/>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </receiver>
 
